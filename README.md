@@ -21,22 +21,17 @@ This project is a Python application that visualizes pathfinding algorithms on a
 
   Navigate to the Project Directory:
 
-    bash
-
     cd pathfinding-algorithm-visualizer
 
 Install Dependencies:
 Ensure you have Python 3.x installed. The required packages are networkx, matplotlib, and PyQt5. Install them using pip:
 
-bash
 
     pip install networkx matplotlib PyQt5
 
 Usage
 
   Run the Application:
-
-    bash
 
     python pathfinding_gui.py
 
@@ -63,8 +58,5 @@ Contributions are welcome! Please open an issue or submit a pull request with im
 Contact
 
 For questions or feedback, please contact c2.tlhah@gmail.com.
-
-python
-
 
 Feel free to adjust any sections as needed, especially the links and contact information.
